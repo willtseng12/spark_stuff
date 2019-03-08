@@ -1,1 +1,1 @@
-The respository contains my demo, projects, etc. dedicated to the learning and use of Apache Spark and its associated libraries.
+The respository contains some demo, projects, etc. dedicated to the familiarizing of the pyspark api and its associated libraries.
